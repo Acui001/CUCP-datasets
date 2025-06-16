@@ -20,7 +20,7 @@ Lastly, we fine-tuned several widely-used NLP models, including **BERT**, **RoBE
 > 🔒 **The full dataset will be publicly released after the paper is accepted.**
 
 Currently, we have released a small portion of sample data for demonstration and validation purposes.  
-You can find the sample file here: **[CUCP.csv](CUCP.csv)**.
+You can find the sample file here: **[demo_CUCP.csv](demo_CUCP.csv)**.
 
 ---
 
