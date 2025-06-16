@@ -1,7 +1,7 @@
 # CUCP-datasets
 
 **CUCP: A Chinese User Comment Dataset Focused on Urban Parks**
-
+📘 中文版说明请见：[README_zh.md](README_zh.md)
 📌 *Status: Under Review*
 ---
 
